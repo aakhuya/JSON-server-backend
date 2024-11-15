@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Muthoni",
+      "email": "alicemuthoni2@gmail.com",
+      "phone": "254 71782350"
+    },
+    {
+      "id": "2",
+      "name": "Bob Jose",
+      "email": "junior.bob@outlook.com",
+      "phone": "254 72682339"
+    },
+    {
+      "id": "3",
+      "name": "Lucious Ben",
+      "email": "lucious23@yahoo.com",
+      "phone": "254 79792947"
+    },
+    {
+      "id": "e43f",
+      "name": "Namwel Vulu",
+      "email": "vulunamwel@gmail.com",
+      "phone": "23450987665"
+    }
+  ]
+}
